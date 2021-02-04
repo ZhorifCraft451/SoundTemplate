@@ -1,0 +1,11 @@
+---
+name: SoundTemplate
+version: 0.0.1
+main: ZhorifCraft451\SoundTemplate\Main
+api: 3.0.0
+author: ZhorifCraft451
+
+commands:
+ soundtest:
+  description: Test Sound
+...
